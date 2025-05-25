@@ -20,4 +20,4 @@ This is a simple Java Swing-based ATM interface application that simulates basic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shrutimaheta/Brainwave_Matrix_Intern.git
+  https://github.com/Shrutimaheta/Brainwave_Matrix_Intern

@@ -30,12 +30,6 @@ This system provides a basic simulation of ATM-like interactions with simple UI 
 
 ---
 
-## 📸 Screenshots
-
-_Add relevant screenshots here to show the interface, e.g., main screen, deposit/withdraw window._
-
----
-
 ## 📂 Folder Structure
 ATM-interface (Task-1)/
 ├── ATMInterface.java

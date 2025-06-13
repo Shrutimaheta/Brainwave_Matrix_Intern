@@ -2,16 +2,16 @@
 
 ## 📌 Project Overview
 
-This is a Java-based **Hospital Management System** developed as part of the Brainwave Matrix internship. The system allows hospital staff to manage:
+This project is a desktop-based **Hospital Management System**, built using Java as part of my internship at **Brainwave Matrix**. The system is designed to support hospital operations by helping staff handle:
 
-- 🧑‍⚕️ Patient registration and details  
-- 🩺 Appointment scheduling  
-- 📄 Medical records (EHR)  
-- 💰 Billing and invoice generation  
-- 📦 Inventory of medical supplies  
-- 👨‍💼 Staff information and roles
+- 🧑‍⚕️ Managing patient information  
+- 🩺 Scheduling appointments  
+- 📄 Maintaining electronic health records (EHR)  
+- 💰 Generating bills and invoices  
+- 📦 Tracking medical inventory  
+- 👨‍💼 Organizing staff roles and data
 
-This system is designed with a user-friendly GUI using Java Swing.
+The user interface is developed using **Java Swing**, making the application interactive and easy to use.
 
 ---
 
@@ -26,27 +26,26 @@ This system is designed with a user-friendly GUI using Java Swing.
 
 ## 🚀 Features
 
-- Add, update, delete patient details  
-- View patient history and reports  
-- Schedule doctor appointments  
-- Generate bills and manage invoices  
-- Track staff and inventory data  
-- Login authentication for admin
+- Add, update, and delete patient data  
+- View and maintain patient medical records  
+- Schedule and manage appointments  
+- Generate and handle billing information  
+- Manage staff details and inventory  
+- Admin login with authentication
 
 ---
 
 ## 🖥️ How to Run
 
 1. Clone the repository or download the ZIP  
-2. Open the project in **NetBeans** (or any Java IDE)  
-3. Import MySQL database (SQL file if included)  
-4. Update database credentials in the code  
-5. Run the main class to start the GUI
+2. Open the project in **NetBeans** (or any preferred Java IDE)  
+3. Import the MySQL database (SQL file if available)  
+4. Update your database credentials in the code  
+5. Run the main class to launch the application
 
 ---
 
 ## 📂 Folder Structure
-
 Hospital_Management_System(Task-2)/
 ├── src/
 │ ├── Patient.java
@@ -55,8 +54,6 @@ Hospital_Management_System(Task-2)/
 ├── DBConnection.java
 ├── README.md
 
-
----
 
 ## 🙋‍♀️ Author
 
@@ -67,4 +64,4 @@ Hospital_Management_System(Task-2)/
 
 ## 📃 License
 
-This project is for academic and demonstration purposes only.
+This project is intended for academic and internship demonstration purposes only.

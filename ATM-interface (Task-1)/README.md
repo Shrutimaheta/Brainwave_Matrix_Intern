@@ -38,4 +38,6 @@ E.g. Home screen, deposit/withdraw screen.
 ---
 
 ## 📂 Folder Structure
-
+ATM-interface (Task-1)/
+├── ATMInterface.java
+└── README.md

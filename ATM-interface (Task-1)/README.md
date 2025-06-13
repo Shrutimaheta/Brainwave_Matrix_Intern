@@ -1,39 +1,38 @@
-# ATM Interface (Task-1)
+# 💳 ATM Interface (Task-1)
 
-## 💡 Project Description
+## 💡 Project Overview
 
-This is a simple Java-based **ATM Interface** system developed as part of the Brainwave Matrix internship tasks. It simulates ATM operations such as:
+This Java-based **ATM Interface** project was developed as part of my internship at **Brainwave Matrix**. The application simulates core ATM functionalities with a graphical user interface, allowing users to:
 
-- Check Balance
-- Deposit Money
-- Withdraw Money
-- Exit
+- 🔍 View account balance  
+- ➕ Deposit money  
+- ➖ Withdraw money  
+- 🚪 Exit the session
 
-It provides a basic simulation of user interactions with an ATM machine using a GUI.
+This system provides a basic simulation of ATM-like interactions with simple UI controls.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Java
-- Java Swing (for GUI)
-- NetBeans IDE (recommended)
+- Java  
+- Java Swing (GUI)  
+- NetBeans IDE (or any Java IDE)
 
 ---
 
 ## 🖥️ How to Run
 
-1. Clone or download the project.
-2. Open the project in **NetBeans IDE** (or any Java IDE).
-3. Locate and run the main class: `ATMInterface.java`.
-4. Use the GUI to perform basic banking operations.
+1. Download or clone this repository  
+2. Open the project in **NetBeans IDE** (or any preferred IDE)  
+3. Run the main file: `ATMInterface.java`  
+4. Use the interface to simulate ATM transactions
 
 ---
 
 ## 📸 Screenshots
 
-_Add screenshots of the application here (optional)._  
-E.g. Home screen, deposit/withdraw screen.
+_Add relevant screenshots here to show the interface, e.g., main screen, deposit/withdraw window._
 
 ---
 
@@ -41,3 +40,17 @@ E.g. Home screen, deposit/withdraw screen.
 ATM-interface (Task-1)/
 ├── ATMInterface.java
 └── README.md
+
+---
+
+## 🙋‍♀️ Author
+
+**Shruti Maheta**  
+[GitHub](https://github.com/Shrutimaheta)
+
+---
+
+## 📃 License
+
+This project is for academic learning and demonstration purposes only.
+
